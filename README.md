@@ -31,7 +31,12 @@ Some screenshots
 ![](public/Image/7gl.png)
 ![](public/Image/8gl.png)
 
-## My process
+## Team memebers
+- Fatima DAKAK
+- Rochdi MAHIR
+- Asmaa AIT HA
+- Aymane MATRANE
+- Souhaila SAKHRI
 
 ### Built with
 
@@ -42,5 +47,5 @@ Some screenshots
 - JavaScript (JQUERY - Ajax) 
 - MySql
 
-## Author
+## Contact me
 - Linkedin -https://www.linkedin.com/in/fatima-dakak-08869b189/
