@@ -1,4 +1,4 @@
-# Services For Students
+# School Services
 A web application dedicated to students. This application, allows students to request various certificates such as a school attendance certificate, a transcript, a certificate of achievement, a internship agreement, etc.
 The application has a database containing student information, including their year of study, their student ID, their name, their email address, etc., to verify that the student sending the request is enrolled in the school. Students can fill out a form with the necessary information for each certificate requested.
 The administrator has a space to process requests. They can either approve or reject each request. If the request is approved, a PDF document containing the information related to the requested certificate is generated and sent to the client by email. If the request is rejected, the reason for the rejection is also automatically sent to the client by email. All processed requests are kept in a history in case of problems or processing errors.
@@ -43,6 +43,4 @@ Some screenshots
 - MySql
 
 ## Author
-- Website - [Mahir Rochdi](https://github.com/MAHIRROCHDI)
-- Linkedin - [@rochdi-mahir](www.linkedin.com/in/rochdi-mahir)
-
+- Linkedin -https://www.linkedin.com/in/fatima-dakak-08869b189/
